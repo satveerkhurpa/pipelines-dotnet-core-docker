@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/satveerkhurpa0142/pipelines-dotnet-core-docker/_apis/build/status/satveerkhurpa.pipelines-dotnet-core-docker?branchName=master)](https://dev.azure.com/satveerkhurpa0142/pipelines-dotnet-core-docker/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
